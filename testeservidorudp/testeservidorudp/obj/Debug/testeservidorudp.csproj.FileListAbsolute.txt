@@ -1,0 +1,6 @@
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeservidorudp\testeservidorudp\bin\Debug\testeservidorudp.exe.config
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeservidorudp\testeservidorudp\obj\Debug\testeservidorudp.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeservidorudp\testeservidorudp\bin\Debug\testeservidorudp.exe
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeservidorudp\testeservidorudp\bin\Debug\testeservidorudp.pdb
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeservidorudp\testeservidorudp\obj\Debug\testeservidorudp.exe
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeservidorudp\testeservidorudp\obj\Debug\testeservidorudp.pdb

@@ -1,0 +1,27 @@
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.exe.config
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.exe
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.pdb
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.Form1.resources
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.exe
+C:\Users\Aluno\Desktop\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.pdb
+F:\6 periodo\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.exe.config
+F:\6 periodo\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.exe
+F:\6 periodo\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.pdb
+F:\6 periodo\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.exe
+F:\6 periodo\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.pdb
+F:\6 periodo\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.csprojResolveAssemblyReference.cache
+F:\6 periodo\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.Form1.resources
+F:\6 periodo\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.Properties.Resources.resources
+F:\6 periodo\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.csproj.GenerateResource.Cache
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.exe.config
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.exe
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.pdb
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.exe
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\bin\Debug\trabalhoredes.pdb
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.Form1.resources
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\trabalhoredes\trabalhoredes\obj\Debug\trabalhoredes.csproj.GenerateResource.Cache

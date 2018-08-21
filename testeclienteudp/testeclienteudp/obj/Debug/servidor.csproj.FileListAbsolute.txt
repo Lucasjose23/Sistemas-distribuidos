@@ -1,0 +1,5 @@
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeclienteudp\testeclienteudp\bin\Debug\testeclienteudp.exe.config
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeclienteudp\testeclienteudp\bin\Debug\testeclienteudp.exe
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeclienteudp\testeclienteudp\bin\Debug\testeclienteudp.pdb
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeclienteudp\testeclienteudp\obj\Debug\testeclienteudp.exe
+C:\Users\Lucas\OneDrive\Documentos\6 PERIODO\siste distribuidos\testeclienteudp\testeclienteudp\obj\Debug\testeclienteudp.pdb
